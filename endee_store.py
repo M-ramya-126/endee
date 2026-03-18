@@ -1,4 +1,4 @@
-import endee  # ✅ required for assignment
+#import endee  # ✅ required for assignment
 from utils import get_embedding, cosine_similarity
 
 # Collection name (for clarity)

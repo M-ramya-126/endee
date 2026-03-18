@@ -1,0 +1,31 @@
+Machine learning is a branch of AI that allows systems to learn from data.
+
+Artificial Intelligence is the simulation of human intelligence.
+
+Deep learning uses neural networks with multiple layers.
+
+Natural Language Processing helps computers understand language.
+
+Python is widely used for AI and data science.
+
+Cloud computing provides services over the internet.
+
+AWS is a popular cloud platform.
+
+DevOps improves collaboration between development and operations.
+
+Docker is used for containerization.
+
+Kubernetes manages containerized applications.
+
+Data science extracts insights from data.
+
+Supervised learning uses labeled data.
+
+Unsupervised learning finds hidden patterns.
+
+Reinforcement learning learns from rewards.
+
+Vector databases store embeddings.
+
+Semantic search understands meaning instead of keywords.

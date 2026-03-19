@@ -1,8 +1,6 @@
 import requests
-import os
-
-# Get API key from Streamlit Secrets
-API_KEY = os.getenv("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")
+import streamlit as st
+API_KEY = st.secrets["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"]
 
 def generate_answer(context, question):
 

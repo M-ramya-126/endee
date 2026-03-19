@@ -1,6 +1,7 @@
 import requests
 import streamlit as st
-API_KEY = st.secrets["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"]
+
+API_KEY = st.secrets["API_KEY"]
 
 def generate_answer(context, question):
 
